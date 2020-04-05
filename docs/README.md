@@ -9,4 +9,4 @@
 * Not build static html files
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](/_sidebar.md)
+[Get Started](_sidebar.md)
