@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * [day01](leyou/day01-springboot/笔记/springboot.md)
 * [day02](leyou/day02-springcloud/笔记/SpringCloud.md)
 * [day03](leyou/day03-springcloud/笔记/SpringCloud2.md)
@@ -18,3 +19,17 @@
 * [day18](leyou/day18-购物车/笔记/day18-购物车.md)
 * [day19](leyou/day19-下单/笔记/day19-下单.md)
 * [指南](zh-cn/guide)
+=======
+![logo](_media/icon.svg)
+
+# docsify
+
+> A magical documentation site generator.
+
+* Simple and lightweight (~12kb gzipped)
+* Multiple themes
+* Not build static html files
+
+[GitHub](https://github.com/docsifyjs/docsify/)
+[Get Started](_sidebar.md)
+>>>>>>> 4ea76b0dc0fbb60a5fe9ca2ebb5efa1e7e53cf45
