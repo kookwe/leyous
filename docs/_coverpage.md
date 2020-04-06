@@ -1,12 +1,7 @@
-![logo](_media/icon.svg)
 
-# docsify
+# mall project
 
-> A magical documentation site generator.
-
-* Simple and lightweight (~12kb gzipped)
-* Multiple themes
-* Not build static html files
+> 商城项目学习
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](/all.md)
