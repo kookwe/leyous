@@ -31,5 +31,5 @@
 * Not build static html files
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](_sidebar.md)
+[Get Started](/_sidebar.md)
 >>>>>>> 4ea76b0dc0fbb60a5fe9ca2ebb5efa1e7e53cf45
