@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 >   **优乐选电商系统开发**
 
 >   **第 5 章**
@@ -686,3 +687,40 @@ FastDFS 入门小 Demo
 ![](media/21963ae81ebba9a616366011d2f55a94.jpg)
 
 >   修改列表中的删除按钮
+=======
+<<<<<<< HEAD
+* [day01](leyou/day01-springboot/笔记/springboot.md)
+* [day02](leyou/day02-springcloud/笔记/SpringCloud.md)
+* [day03](leyou/day03-springcloud/笔记/SpringCloud2.md)
+* [day04](leyou/day04-项目搭建及es6语法/笔记/day04-乐优商城项目搭建.md)
+* [day05](leyou/day05-vue入门/笔记/day05-vue入门.md)
+* [day06](leyou/day06-商品分类(vuetify-nginx-cors)/笔记/day06.md)
+* [day07](leyou/day07-品牌查询/笔记/day07-商品分类及品牌.md)
+* [day08](leyou/day08-品牌新增及fastDFS/笔记/day08-品牌管理.md)
+* [day09](leyou/day09-规格参数/笔记/day09-商品规格管理.md)
+* [day10](leyou/day10-商品管理/笔记/day10-商品管理.md)
+* [day11](leyou/day11-elasticsearch/笔记/day11-elasticsearch.md)
+* [day12](leyou/day12-基本搜索/笔记/day12.基本搜索.md)
+* [day13](leyou/day13-搜索过滤/笔记/day13-搜索过滤.md)
+* [day14](leyou/day14-thymeleaf及静态化/笔记/day14.商品详情及静态化.md)
+* [day15](leyou/day15-rabbitMQ/笔记/day15-rabbitmq及数据同步.md)
+* [day16](leyou/day16-用户注册(阿里大于及hibernate-validate)/笔记/day16-用户注册.md)
+* [day17](leyou/day17-授权中心/笔记/day17-授权中心.md)
+* [day18](leyou/day18-购物车/笔记/day18-购物车.md)
+* [day19](leyou/day19-下单/笔记/day19-下单.md)
+* [指南](zh-cn/guide)
+=======
+![logo](_media/icon.svg)
+
+# docsify
+
+> A magical documentation site generator.
+
+* Simple and lightweight (~12kb gzipped)
+* Multiple themes
+* Not build static html files
+
+[GitHub](https://github.com/docsifyjs/docsify/)
+[Get Started](/_sidebar.md)
+>>>>>>> 4ea76b0dc0fbb60a5fe9ca2ebb5efa1e7e53cf45
+>>>>>>> d05cfb681aa819cdc96d6c872ef9ff8bee5a178d
